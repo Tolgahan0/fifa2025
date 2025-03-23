@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import teamsData from './data/teams.json'
 import './App.css'
 
